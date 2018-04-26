@@ -1,0 +1,10 @@
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/obj/Debug/netcoreapp2.0/fundamentals_I.csproj.CoreCompileInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/obj/Debug/netcoreapp2.0/fundamentals_I.AssemblyInfoInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/obj/Debug/netcoreapp2.0/fundamentals_I.AssemblyInfo.cs
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/bin/Debug/netcoreapp2.0/fundamentals_I.deps.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/bin/Debug/netcoreapp2.0/fundamentals_I.runtimeconfig.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/bin/Debug/netcoreapp2.0/fundamentals_I.runtimeconfig.dev.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/bin/Debug/netcoreapp2.0/fundamentals_I.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/bin/Debug/netcoreapp2.0/fundamentals_I.pdb
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/obj/Debug/netcoreapp2.0/fundamentals_I.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/fundamentals_I/obj/Debug/netcoreapp2.0/fundamentals_I.pdb

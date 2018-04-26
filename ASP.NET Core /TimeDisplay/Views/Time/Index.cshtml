@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+    </head>
+    <body>
+        <h1>The current time and date:</h1>
+        <div style="border: 1px solid black; width: 15% ; margin-left: 65px;">
+            <h2 style="text-align: center;">@String.Format("{0:MMM dd, yyyy}", DateTime.Now)</h2>
+            <h2 style="text-align: center;">@String.Format("{0:h:mm tt}", DateTime.Now)</h2>
+        </div>
+        <!-- @{DateTime CurrentTime = DateTime.Now;} -->
+        <!-- <h2>@DateTime.Now</h2> -->
+    </body>
+</html>

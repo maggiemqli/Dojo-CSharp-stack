@@ -1,0 +1,10 @@
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb

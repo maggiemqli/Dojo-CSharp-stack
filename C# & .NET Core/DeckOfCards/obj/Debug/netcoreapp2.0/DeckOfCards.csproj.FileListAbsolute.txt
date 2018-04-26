@@ -1,0 +1,10 @@
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfoInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfo.cs
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.deps.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.dev.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.pdb
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.pdb

@@ -1,0 +1,10 @@
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/bin/Debug/netcoreapp2.0/FirstAsp.deps.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/bin/Debug/netcoreapp2.0/FirstAsp.runtimeconfig.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/bin/Debug/netcoreapp2.0/FirstAsp.runtimeconfig.dev.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/bin/Debug/netcoreapp2.0/FirstAsp.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/bin/Debug/netcoreapp2.0/FirstAsp.pdb
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/obj/Debug/netcoreapp2.0/FirstAsp.csproj.CoreCompileInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/obj/Debug/netcoreapp2.0/FirstAsp.AssemblyInfoInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/obj/Debug/netcoreapp2.0/FirstAsp.AssemblyInfo.cs
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/obj/Debug/netcoreapp2.0/FirstAsp.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/FirstAsp/obj/Debug/netcoreapp2.0/FirstAsp.pdb
